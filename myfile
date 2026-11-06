@@ -1,1 +1,7 @@
-likitha
+class Student {
+public static void main (String[] args){
+int a=10;
+int b=20;
+int c;
+c=a+b;
+Sysytem.out.println("addition", +c);
